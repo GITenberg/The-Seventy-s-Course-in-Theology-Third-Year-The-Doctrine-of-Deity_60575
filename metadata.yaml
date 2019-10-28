@@ -1,5 +1,8 @@
 _repo: The-Seventy-s-Course-in-Theology-Third-Year-The-Doctrine-of-Deity_60575
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60575-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, B. H. (Brigham Henry)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37629
     wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60575#The-Seventy-s-Course-in-Theology-Third-Year-The-Doctrine-of-Deity
 gutenberg_issued: '2019-10-26'
 gutenberg_type: Text
 identifiers:
